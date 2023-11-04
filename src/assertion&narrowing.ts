@@ -1,11 +1,3 @@
-## Typescript Module-2
-
-### Instructor: Mezba Vai
-
-> [!important]
-> Assertion & Type narrowing
-
-```ts
 {
   // assertion
   let userName: any;
@@ -34,4 +26,3 @@
 
   //
 }
-```
