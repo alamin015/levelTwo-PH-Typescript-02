@@ -14,6 +14,7 @@
             age: 99,
         },
     ];
+    console.log(myObj);
     //
     //
 }
